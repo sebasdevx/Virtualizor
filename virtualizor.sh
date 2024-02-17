@@ -7,7 +7,7 @@ fi
 
 clear
 
-GitHub_Account="https://raw.githubusercontent.com/sebasdevx/Pterodactyl/main
+GitHub_Account="https://raw.githubusercontent.com/sebasdevx/Virtualizor/main
 
 installVirtualizor() {
     wget -N http://files.virtualizor.com/install.sh
